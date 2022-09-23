@@ -1,2 +1,2 @@
-# STM32F410-Projects
+# STM32-Projects
 Simple projects using STM32F410RE Nucleo board.
