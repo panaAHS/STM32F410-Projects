@@ -1,5 +1,5 @@
-# STM32-Projects
-Simple projects using STM32F410RE Nucleo board.
+# STM32F410-Projects
+Keil projects for STM32F4xx devices 
 - 1st: Arm Assembly Project
 - 2nd: LED-Pressing-UART
 - 3rd: Smart Thermometer
