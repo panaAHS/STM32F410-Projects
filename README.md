@@ -5,3 +5,8 @@ Keil projects for STM32F4xx devices
 - 3rd: Smart Thermometer
 
 ##### For these projects ARM Keil MDK and ARM University Program Libraries have been used.
+
+#### Contributors
+[Panagiotis Karamitopoulos](https://github.com/panaAHS)
+
+[Rafailia Saridaki](https://github.com/Rallu921)
